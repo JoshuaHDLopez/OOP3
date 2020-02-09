@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\OOP3\Durak\Durak_Group3\obj\Debug\Durak_Group3.frmInGame.resources
+C:\Users\user\Desktop\OOP3\Durak\Durak_Group3\obj\Debug\Durak_Group3.Properties.Resources.resources
+C:\Users\user\Desktop\OOP3\Durak\Durak_Group3\obj\Debug\Durak_Group3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\OOP3\Durak\Durak_Group3\bin\Debug\Durak_Group3.exe.config
+C:\Users\user\Desktop\OOP3\Durak\Durak_Group3\bin\Debug\Durak_Group3.exe
+C:\Users\user\Desktop\OOP3\Durak\Durak_Group3\bin\Debug\Durak_Group3.pdb
+C:\Users\user\Desktop\OOP3\Durak\Durak_Group3\obj\Debug\Durak_Group3.exe
+C:\Users\user\Desktop\OOP3\Durak\Durak_Group3\obj\Debug\Durak_Group3.pdb
+C:\Users\user\Desktop\OOP3\Durak\Durak_Group3\obj\Debug\Durak_Group3.csprojAssemblyReference.cache
